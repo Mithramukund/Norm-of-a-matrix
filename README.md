@@ -44,7 +44,7 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix!
-[Screenshot_20230126_081431](https://user-images.githubusercontent.com/121608770/214865718-e2ff6662-1342-4dd6-8c99-77da1f209eed.png)
+![Screenshot_20230126_081431](https://user-images.githubusercontent.com/121608770/214866360-b0e79cdc-fe21-40ac-b438-4b247fb915b6.png)
 
 
 ### 2-Norm of a Matrix
